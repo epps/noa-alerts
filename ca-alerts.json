@@ -19,36 +19,6 @@
   "areaDesc": "Inyo, CA; San Bernardino, CA"
 }
 {
-  "id": "urn:oid:2.49.0.1.840.0.cdb839e448b3c2a6a73b9cd1e137deade7d35d06.001.1",
-  "headline": "Flash Flood Warning issued August 21 at 4:52AM PDT until August 21 at 9:00AM PDT by NWS Las Vegas NV",
-  "event": "Flash Flood Warning",
-  "severity": "Severe",
-  "certainty": "Likely",
-  "urgency": "Immediate",
-  "status": "Actual",
-  "areaDesc": "Inyo, CA"
-}
-{
-  "id": "urn:oid:2.49.0.1.840.0.91beeafc9dfc8ee9e5610962892434279e60beb3.001.1",
-  "headline": "Flash Flood Warning issued August 21 at 4:49AM PDT until August 21 at 9:00AM PDT by NWS Las Vegas NV",
-  "event": "Flash Flood Warning",
-  "severity": "Severe",
-  "certainty": "Likely",
-  "urgency": "Immediate",
-  "status": "Actual",
-  "areaDesc": "San Bernardino, CA"
-}
-{
-  "id": "urn:oid:2.49.0.1.840.0.2d20ece187c2d77300125fe56eaad5aa103a60f7.001.1",
-  "headline": "Flash Flood Warning issued August 21 at 4:46AM PDT until August 21 at 9:00AM PDT by NWS Las Vegas NV",
-  "event": "Flash Flood Warning",
-  "severity": "Severe",
-  "certainty": "Likely",
-  "urgency": "Immediate",
-  "status": "Actual",
-  "areaDesc": "San Bernardino, CA"
-}
-{
   "id": "urn:oid:2.49.0.1.840.0.7d3647b72b1b098463ce3fc6b513b650665a6036.001.1",
   "headline": "Flood Warning issued August 21 at 4:20AM PDT until August 21 at 10:15AM PDT by NWS San Diego CA",
   "event": "Flood Warning",
@@ -99,16 +69,6 @@
   "areaDesc": "San Diego County Coastal Areas"
 }
 {
-  "id": "urn:oid:2.49.0.1.840.0.49bc1aecf800d2f6172df2cd0ef466aca6b4acb2.002.1",
-  "headline": "Flood Watch issued August 21 at 12:55AM MST until August 21 at 9:00AM MST by NWS Phoenix AZ",
-  "event": "Flood Watch",
-  "severity": "Severe",
-  "certainty": "Possible",
-  "urgency": "Future",
-  "status": "Actual",
-  "areaDesc": "Joshua Tree NP West; Joshua Tree NP East; Imperial County Southwest; Salton Sea; Chuckwalla Mountains; Imperial County West; Imperial Valley; Chiriaco Summit; Chuckwalla Valley"
-}
-{
   "id": "urn:oid:2.49.0.1.840.0.8024d360d77f305f2d3695d694653fc6e02577a4.005.1",
   "headline": "Flood Watch issued August 21 at 12:51AM PDT until August 22 at 5:00AM PDT by NWS Las Vegas NV",
   "event": "Flood Watch",
@@ -127,36 +87,6 @@
   "urgency": "Future",
   "status": "Actual",
   "areaDesc": "Western Mojave Desert; Eastern Mojave Desert, Including the Mojave National Preserve; Morongo Basin"
-}
-{
-  "id": "urn:oid:2.49.0.1.840.0.41b1c540a4e033a313c0e7e2a264607dfae4f080.001.1",
-  "headline": "Flood Warning issued August 20 at 11:49PM PDT until August 21 at 9:00AM PDT by NWS Phoenix AZ",
-  "event": "Flood Warning",
-  "severity": "Severe",
-  "certainty": "Likely",
-  "urgency": "Expected",
-  "status": "Actual",
-  "areaDesc": "Imperial, CA; Riverside, CA; San Bernardino, CA"
-}
-{
-  "id": "urn:oid:2.49.0.1.840.0.402440b61c26e1847ffa6523d3749043d6eb5b82.001.1",
-  "headline": "Flood Warning issued August 20 at 11:49PM PDT until August 21 at 9:00AM PDT by NWS Phoenix AZ",
-  "event": "Flood Warning",
-  "severity": "Severe",
-  "certainty": "Likely",
-  "urgency": "Expected",
-  "status": "Actual",
-  "areaDesc": "Imperial, CA; Riverside, CA"
-}
-{
-  "id": "urn:oid:2.49.0.1.840.0.a8c6d06398a602c7524339cc4cf52eb393343bfb.001.1",
-  "headline": "Flood Warning issued August 20 at 11:49PM PDT until August 21 at 9:00AM PDT by NWS Phoenix AZ",
-  "event": "Flood Warning",
-  "severity": "Severe",
-  "certainty": "Likely",
-  "urgency": "Expected",
-  "status": "Actual",
-  "areaDesc": "Imperial, CA"
 }
 {
   "id": "urn:oid:2.49.0.1.840.0.7672a16a9d744a260895ce8ad17914a33c40b56d.001.1",
