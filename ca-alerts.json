@@ -29,16 +29,6 @@
   "areaDesc": "Inyo, CA"
 }
 {
-  "id": "urn:oid:2.49.0.1.840.0.b46c4791c1cc96070bb14853c1971d6190fbf339.001.1",
-  "headline": "Flash Flood Warning issued August 21 at 4:50AM PDT until August 21 at 7:15AM PDT by NWS Reno NV",
-  "event": "Flash Flood Warning",
-  "severity": "Severe",
-  "certainty": "Likely",
-  "urgency": "Immediate",
-  "status": "Actual",
-  "areaDesc": "Mono, CA"
-}
-{
   "id": "urn:oid:2.49.0.1.840.0.91beeafc9dfc8ee9e5610962892434279e60beb3.001.1",
   "headline": "Flash Flood Warning issued August 21 at 4:49AM PDT until August 21 at 9:00AM PDT by NWS Las Vegas NV",
   "event": "Flash Flood Warning",
@@ -57,16 +47,6 @@
   "urgency": "Immediate",
   "status": "Actual",
   "areaDesc": "San Bernardino, CA"
-}
-{
-  "id": "urn:oid:2.49.0.1.840.0.e20f6746b3456b57f957315eafd76d0d7c9f0fcb.001.1",
-  "headline": "Flood Warning issued August 21 at 4:22AM PDT until August 21 at 7:15AM PDT by NWS San Diego CA",
-  "event": "Flood Warning",
-  "severity": "Severe",
-  "certainty": "Likely",
-  "urgency": "Expected",
-  "status": "Actual",
-  "areaDesc": "Riverside, CA; San Bernardino, CA"
 }
 {
   "id": "urn:oid:2.49.0.1.840.0.7d3647b72b1b098463ce3fc6b513b650665a6036.001.1",
