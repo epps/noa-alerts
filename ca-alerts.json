@@ -59,16 +59,6 @@
   "areaDesc": "Riverside, CA; San Bernardino, CA"
 }
 {
-  "id": "urn:oid:2.49.0.1.840.0.f59f2348c8536ff4ec93a51e49638da12f75ef90.001.1",
-  "headline": "Flood Advisory issued August 21 at 4:13AM PDT until August 21 at 8:00AM PDT by NWS Los Angeles/Oxnard CA",
-  "event": "Flood Advisory",
-  "severity": "Minor",
-  "certainty": "Likely",
-  "urgency": "Expected",
-  "status": "Actual",
-  "areaDesc": "Los Angeles, CA"
-}
-{
   "id": "urn:oid:2.49.0.1.840.0.c6841017f2773907f962826eb829925267411515.002.1",
   "headline": "Flood Watch issued August 21 at 3:37AM PDT until August 22 at 5:00AM PDT by NWS Reno NV",
   "event": "Flood Watch",
@@ -77,36 +67,6 @@
   "urgency": "Future",
   "status": "Actual",
   "areaDesc": "Mono; Mineral and Southern Lyon Counties; Western Nevada Basin and Range including Pyramid Lake"
-}
-{
-  "id": "urn:oid:2.49.0.1.840.0.effa9334ea9b91a94c937b409c6e162befa11586.001.1",
-  "headline": "Flood Advisory issued August 21 at 2:54AM PDT until August 21 at 8:00AM PDT by NWS Los Angeles/Oxnard CA",
-  "event": "Flood Advisory",
-  "severity": "Minor",
-  "certainty": "Likely",
-  "urgency": "Expected",
-  "status": "Actual",
-  "areaDesc": "Ventura, CA"
-}
-{
-  "id": "urn:oid:2.49.0.1.840.0.d899271eeda6845ecbb624575ed013ba54482a3b.002.1",
-  "headline": "Wind Advisory issued August 21 at 2:29AM PDT until August 21 at 8:00AM PDT by NWS Los Angeles/Oxnard CA",
-  "event": "Wind Advisory",
-  "severity": "Moderate",
-  "certainty": "Likely",
-  "urgency": "Expected",
-  "status": "Actual",
-  "areaDesc": "Los Angeles County San Gabriel Valley"
-}
-{
-  "id": "urn:oid:2.49.0.1.840.0.d899271eeda6845ecbb624575ed013ba54482a3b.001.1",
-  "headline": "Wind Advisory issued August 21 at 2:29AM PDT until August 21 at 8:00AM PDT by NWS Los Angeles/Oxnard CA",
-  "event": "Wind Advisory",
-  "severity": "Moderate",
-  "certainty": "Likely",
-  "urgency": "Expected",
-  "status": "Actual",
-  "areaDesc": "Western San Gabriel Mountains and Highway 14 Corridor; Eastern San Gabriel Mountains"
 }
 {
   "id": "urn:oid:2.49.0.1.840.0.5bf3d2384c769dcd49b0ed08575c032701de30fc.001.1",
@@ -329,16 +289,6 @@
   "areaDesc": "Orange County Coastal"
 }
 {
-  "id": "urn:oid:2.49.0.1.840.0.d102c5dc451d5627d93d18c05a65ab9d3b4b5f9d.002.1",
-  "headline": "Flood Watch issued August 18 at 11:58AM PDT until August 21 at 11:00PM PDT by NWS Hanford CA",
-  "event": "Flood Watch",
-  "severity": "Severe",
-  "certainty": "Possible",
-  "urgency": "Future",
-  "status": "Actual",
-  "areaDesc": "South End San Joaquin Valley; South End of the Lower Sierra; Kings Canyon NP; Grant Grove Area; Sequoia NP; South End of the Upper Sierra; Kern River Valley; Piute Walker Basin; Tehachapi; Grapevine; Frazier Mountain Communities; Indian Wells Valley; Mojave Desert Slopes; Mojave Desert"
-}
-{
   "id": "urn:oid:2.49.0.1.840.0.d102c5dc451d5627d93d18c05a65ab9d3b4b5f9d.001.1",
   "headline": "Flood Watch issued August 18 at 11:58AM PDT until August 21 at 11:00PM PDT by NWS Hanford CA",
   "event": "Flood Watch",
@@ -347,6 +297,16 @@
   "urgency": "Future",
   "status": "Actual",
   "areaDesc": "Bakersfield"
+}
+{
+  "id": "urn:oid:2.49.0.1.840.0.d102c5dc451d5627d93d18c05a65ab9d3b4b5f9d.002.1",
+  "headline": "Flood Watch issued August 18 at 11:58AM PDT until August 21 at 11:00PM PDT by NWS Hanford CA",
+  "event": "Flood Watch",
+  "severity": "Severe",
+  "certainty": "Possible",
+  "urgency": "Future",
+  "status": "Actual",
+  "areaDesc": "South End San Joaquin Valley; South End of the Lower Sierra; Kings Canyon NP; Grant Grove Area; Sequoia NP; South End of the Upper Sierra; Kern River Valley; Piute Walker Basin; Tehachapi; Grapevine; Frazier Mountain Communities; Indian Wells Valley; Mojave Desert Slopes; Mojave Desert"
 }
 {
   "id": "urn:oid:2.49.0.1.840.0.99d2a3033c1c0fa9b759adc2741a23096648264c.002.1",
