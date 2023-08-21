@@ -329,16 +329,6 @@
   "areaDesc": "San Bernardino County Mountains; Riverside County Mountains; San Diego County Mountains; Apple and Lucerne Valleys; Coachella Valley; San Diego County Deserts; San Gorgonio Pass Near Banning"
 }
 {
-  "id": "urn:oid:2.49.0.1.840.0.3e1362b62b63ee80fca9ab5d4f53507fcccb945d.002.1",
-  "headline": "Beach Hazards Statement issued August 18 at 1:12PM PDT until August 22 at 2:00AM PDT by NWS San Diego CA",
-  "event": "Beach Hazards Statement",
-  "severity": "Moderate",
-  "certainty": "Likely",
-  "urgency": "Expected",
-  "status": "Actual",
-  "areaDesc": "San Diego County Coastal Areas"
-}
-{
   "id": "urn:oid:2.49.0.1.840.0.3e1362b62b63ee80fca9ab5d4f53507fcccb945d.001.1",
   "headline": "High Surf Advisory issued August 18 at 1:12PM PDT until August 22 at 2:00AM PDT by NWS San Diego CA",
   "event": "High Surf Advisory",
@@ -347,6 +337,16 @@
   "urgency": "Expected",
   "status": "Actual",
   "areaDesc": "Orange County Coastal"
+}
+{
+  "id": "urn:oid:2.49.0.1.840.0.3e1362b62b63ee80fca9ab5d4f53507fcccb945d.002.1",
+  "headline": "Beach Hazards Statement issued August 18 at 1:12PM PDT until August 22 at 2:00AM PDT by NWS San Diego CA",
+  "event": "Beach Hazards Statement",
+  "severity": "Moderate",
+  "certainty": "Likely",
+  "urgency": "Expected",
+  "status": "Actual",
+  "areaDesc": "San Diego County Coastal Areas"
 }
 {
   "id": "urn:oid:2.49.0.1.840.0.d102c5dc451d5627d93d18c05a65ab9d3b4b5f9d.002.1",
