@@ -1,4 +1,34 @@
 {
+  "id": "urn:oid:2.49.0.1.840.0.4bb2ba1d9d9dcc81f4fee3cff7c83eb0be14e1f2.001.1",
+  "headline": "Flood Advisory issued August 21 at 9:06AM PDT until August 21 at 3:00PM PDT by NWS Las Vegas NV",
+  "event": "Flood Advisory",
+  "severity": "Minor",
+  "certainty": "Likely",
+  "urgency": "Expected",
+  "status": "Actual",
+  "areaDesc": "Inyo, CA"
+}
+{
+  "id": "urn:oid:2.49.0.1.840.0.cde706376b70247aba2c5f9335b73badeb45dcbf.004.1",
+  "headline": "Flood Watch issued August 21 at 9:00AM PDT until August 22 at 5:00AM PDT by NWS Las Vegas NV",
+  "event": "Flood Watch",
+  "severity": "Severe",
+  "certainty": "Possible",
+  "urgency": "Future",
+  "status": "Actual",
+  "areaDesc": "Eastern Sierra Slopes of Inyo County; Owens Valley; White Mountains of Inyo County; Death Valley National Park"
+}
+{
+  "id": "urn:oid:2.49.0.1.840.0.cde706376b70247aba2c5f9335b73badeb45dcbf.001.1",
+  "headline": "Flood Watch issued August 21 at 9:00AM PDT until August 21 at 5:00PM PDT by NWS Las Vegas NV",
+  "event": "Flood Watch",
+  "severity": "Severe",
+  "certainty": "Possible",
+  "urgency": "Future",
+  "status": "Actual",
+  "areaDesc": "Western Mojave Desert; Eastern Mojave Desert, Including the Mojave National Preserve; Morongo Basin"
+}
+{
   "id": "urn:oid:2.49.0.1.840.0.60c47ecfc8dcdfb2322bdebc3c2c12ed1275e0eb.001.1",
   "headline": "Flood Watch issued August 21 at 6:54AM PDT until August 22 at 1:00AM PDT by NWS San Diego CA",
   "event": "Flood Watch",
