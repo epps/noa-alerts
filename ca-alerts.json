@@ -1,4 +1,14 @@
 {
+  "id": "urn:oid:2.49.0.1.840.0.60c47ecfc8dcdfb2322bdebc3c2c12ed1275e0eb.001.1",
+  "headline": "Flood Watch issued August 21 at 6:54AM PDT until August 22 at 1:00AM PDT by NWS San Diego CA",
+  "event": "Flood Watch",
+  "severity": "Severe",
+  "certainty": "Possible",
+  "urgency": "Future",
+  "status": "Actual",
+  "areaDesc": "San Bernardino County Mountains; Riverside County Mountains; San Diego County Mountains; Apple and Lucerne Valleys; Coachella Valley; San Diego County Deserts; San Gorgonio Pass Near Banning"
+}
+{
   "id": "urn:oid:2.49.0.1.840.0.c8ed062c661d096acbc167d4b473ddb9fcafc2be.001.1",
   "headline": "Flood Warning issued August 21 at 5:55AM PDT until August 21 at 3:00PM PDT by NWS Las Vegas NV",
   "event": "Flood Warning",
@@ -7,16 +17,6 @@
   "urgency": "Expected",
   "status": "Actual",
   "areaDesc": "Inyo, CA; San Bernardino, CA"
-}
-{
-  "id": "urn:oid:2.49.0.1.840.0.fb8a7d0097f2eeb6d1becb48d2aba954b27258f3.001.1",
-  "headline": "Flash Flood Warning issued August 21 at 5:52AM PDT until August 21 at 6:30AM PDT by NWS Las Vegas NV",
-  "event": "Flash Flood Warning",
-  "severity": "Severe",
-  "certainty": "Likely",
-  "urgency": "Immediate",
-  "status": "Actual",
-  "areaDesc": "Inyo, CA; Esmeralda, NV; Nye, NV"
 }
 {
   "id": "urn:oid:2.49.0.1.840.0.cdb839e448b3c2a6a73b9cd1e137deade7d35d06.001.1",
@@ -329,16 +329,6 @@
   "areaDesc": "San Bernardino County Mountains; Riverside County Mountains; San Diego County Mountains; Apple and Lucerne Valleys; Coachella Valley; San Diego County Deserts; San Gorgonio Pass Near Banning"
 }
 {
-  "id": "urn:oid:2.49.0.1.840.0.3e1362b62b63ee80fca9ab5d4f53507fcccb945d.001.1",
-  "headline": "High Surf Advisory issued August 18 at 1:12PM PDT until August 22 at 2:00AM PDT by NWS San Diego CA",
-  "event": "High Surf Advisory",
-  "severity": "Minor",
-  "certainty": "Likely",
-  "urgency": "Expected",
-  "status": "Actual",
-  "areaDesc": "Orange County Coastal"
-}
-{
   "id": "urn:oid:2.49.0.1.840.0.3e1362b62b63ee80fca9ab5d4f53507fcccb945d.002.1",
   "headline": "Beach Hazards Statement issued August 18 at 1:12PM PDT until August 22 at 2:00AM PDT by NWS San Diego CA",
   "event": "Beach Hazards Statement",
@@ -347,6 +337,16 @@
   "urgency": "Expected",
   "status": "Actual",
   "areaDesc": "San Diego County Coastal Areas"
+}
+{
+  "id": "urn:oid:2.49.0.1.840.0.3e1362b62b63ee80fca9ab5d4f53507fcccb945d.001.1",
+  "headline": "High Surf Advisory issued August 18 at 1:12PM PDT until August 22 at 2:00AM PDT by NWS San Diego CA",
+  "event": "High Surf Advisory",
+  "severity": "Minor",
+  "certainty": "Likely",
+  "urgency": "Expected",
+  "status": "Actual",
+  "areaDesc": "Orange County Coastal"
 }
 {
   "id": "urn:oid:2.49.0.1.840.0.d102c5dc451d5627d93d18c05a65ab9d3b4b5f9d.002.1",
